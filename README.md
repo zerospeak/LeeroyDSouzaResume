@@ -37,11 +37,6 @@ Highly experienced Software Engineer with 20+ years of expertise in full-stack d
 * Architected a Brownfield product rewrite using .NET 5 and Domain-Driven Design, enhancing code maintainability by 35%.
 * Developed a .NET Core 3.0 API solution for a FAQ chatbot, reducing customer support inquiries by 25%.
 
-**Lead Software Developer** | Road Runner Transportation Services | 02/2020 - 04/2020
-
-* Optimized Peak codebase in collaboration with the CTO, resulting in a 15% improvement in code efficiency.
-* Conducted code reviews and mentorship programs, improving team code quality standards by 30%.
-
 **Senior Software Engineer** | Aquilon Energy Services | 02/2016 - 10/2018
 
 * Mentored junior developers, increasing team productivity by 35%.
