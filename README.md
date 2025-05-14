@@ -1,84 +1,91 @@
-**Leeroy D'Souza**
+# LEEROY D’SOUZA
 
-Software Engineer
+**Senior Software Engineer & Technical Architect** | Downers Grove, IL | (708) 539-6167 | [leeroy.dsouza@gmail.com](mailto:leeroy.dsouza@gmail.com) | LinkedIn: [linkedin.com/in/leeroy-d-souza-9b4869363](linkedin.com/in/leeroy-d-souza-9b4869363) | GitHub: [github.com/zerospeak](https://github.com/zerospeak)
 
-leeroy.dsouza@gmail.com | (331) 481-9546 | Downers Grove, IL 60515, USA
+## SKILLS & TECHNICAL COMPETENCIES
 
-**Professional Summary**
+**Programming:** C#, JavaScript, TypeScript, SQL, HTML5, CSS3  
+**Frameworks:** .NET (Framework/Core/8), ASP.NET MVC, Web API, Entity Framework Core, Angular, React, Vue.js, Bootstrap  
+**Database:** SQL Server, T-SQL, Database Design, Query Optimization  
+**Cloud & DevOps:** Azure Services, Microservices, Docker, Kubernetes, CI/CD, Azure DevOps, Git  
+**Methodologies:** Agile, Scrum, TDD, Clean Architecture, Domain-Driven Design
 
-Highly experienced Software Engineer with 20+ years of expertise in full-stack development, specializing in .NET technologies, cloud computing, and AI/ML integration. Proven ability to deliver scalable solutions, mentor developers, and enhance code quality and performance. Focused on leveraging AI tools to optimize workflows and improve productivity. Committed to developing maintainable, upgradable, and transferable codebases with a focus on intuitive UI/UX, robust error handling, and application security.
+## PROFESSIONAL SUMMARY
 
-**Core Competencies**
+Full-Stack .NET Software Engineer with 15+ years of experience developing enterprise applications, modernizing legacy systems, implementing cloud solutions, and leading technical teams. Expertise in C#, ASP.NET, SQL Server, JavaScript, Azure, microservices architecture, and DevOps practices.
 
-* **Full-Stack Development:** C#, VB.NET, JavaScript, HTML5, Angular, Node.js
-* **Database Technologies:** SQL Server (2000-2019), T-SQL, NoSQL
-* **Cloud & DevOps:** Azure Services, Azure DevOps, Kubernetes
-* **Frameworks:** .NET Core, ASP.NET MVC, Web Forms, Razor Pages
-* **AI/ML Tools:** Qodo Gen, BlackBox AI, Cody, Napkin.ai, poe.com, perplexity.ai
-* **Systems Analysis and Design:** Proof-of-Concept Development, Requirements Integration
+## PROFESSIONAL EXPERIENCE
 
-**Professional Experience**
+**Software Engineer** | _KinderCare Learning Companies, Lake Oswego, OR_ | Jan 2023 - Jan 2025
 
-**Software Engineer** | Kindercare Learning Companies | 02/2023 - 01/2025
+- Developed responsive full-stack applications using HTML5, C#, .NET 8 Core API, and SQL Server 2019
+- Enhanced application security by implementing comprehensive xUnit test coverage and resolving vulnerabilities
+- Mentored junior developers and delivered proof-of-concepts aligned with company objectives
+- Implemented AI-assisted workflows using various AI tools to improve development efficiency
 
-* Led development of mission-critical applications, achieving a 30% improvement in operational efficiency.
-* Implemented AI-driven solutions, reducing manual data processing time by 40%.
-* Mentored junior developers, increasing team productivity by 25%.
+**Software Engineer** | _Aspire Software (ServiceTitan Subsidiary), Saint Louis, MO_ | Oct 2021 - Jun 2022
 
-**Software Engineer** | Aspire Software (Service Titan subsidiary) | 11/2021 - 07/2022
+- Designed and built scalable RESTful APIs using Azure cloud services, C#, and .NET 5 microservices
+- Improved team communication processes, resulting in faster issue resolution
+- Developed responsive Angular components integrated with backend RESTful services
 
-* Applied Agile methodologies using Atlassian products, improving project delivery time by 20%.
-* Developed scalable APIs using Azure services, C#, and .NET 5, supporting a 50% increase in concurrent users.
-* Improved test coverage by 40% using xUnit, decreasing post-release defects.
+**Software Engineer Consultant** | _Insight Global, Houston, TX_ | Jul 2021 - Oct 2021
 
-**Software Engineer – Full Stack .NET Developer** | The Joint Commission | 06/2020 - 07/2021
+- Modernized legacy .NET applications by converting them to containerized .NET Core microservices with Kubernetes
 
-* Migrated legacy .NET applications to .NET Core microservices, reducing system downtime by 60%.
-* Architected a Brownfield product rewrite using .NET 5 and Domain-Driven Design, enhancing code maintainability by 35%.
-* Developed a .NET Core 3.0 API solution for a FAQ chatbot, reducing customer support inquiries by 25%.
+**Software Engineer – Full Stack .Net Developer** | _The Joint Commission, Oakbrook Terrace, IL_ | Jun 2020 - Jul 2021
 
-**Senior Software Engineer** | Aquilon Energy Services | 02/2016 - 10/2018
+- Built and maintained high-performance .NET web applications for healthcare accreditation
+- Implemented .NET Core 3.0 API-to-API integration to enhance system interoperability
+- Created an interactive FAQ chatbot using Azure services for web and UWP XAML applications
+- Architected a Brownfield application rewrite using .NET 5, Entity Framework Core 5, ASP.NET Razor Pages, and DDD
 
-* Mentored junior developers, increasing team productivity by 35%.
-* Integrated open-source solutions, reducing development costs by 20%.
+**  
+<br/><br/>Lead Software Developer** | _Road Runner Transportation Services, Downers Grove, IL_ | Feb 2020 - June 2020
 
-**Senior Engineer, System Design and Strategy** | T-Mobile | 06/2015 - 01/2016
+- Collaborated with CTO on technology stack including Azure DevOps, Angular 8, Entity Framework Core, and .NET Core 3.1
+- Deployed Kubernetes for Docker container orchestration to improve deployment reliability and scalability
+- Led and mentored development team members, improving technical skills and productivity
 
-* Redesigned applications for improved aesthetics, increasing user satisfaction by 45%.
-* Implemented new HTML5 UI features to enhance user interaction and responsiveness.
+**Senior .NET Software Engineer Consultant** | _Tek Systems, Downers Grove, IL_ | Oct 2019 - Feb 2020
 
-**Consulting Experience**
+- Developed an intranet application using .NET Web Forms, Windows Authentication, and SQL Server 2017
+- Created a responsive website and API with .NET Core 3.1, Razor Pages, and Dapper ORM
+- Implemented a project planning system using Clean Architecture principles with .NET Core MVC and xUnit testing
 
-**Software Engineer Consultant** | Insight Global | 08/2021 - 11/2021
+**Senior .NET Software Engineer Consultant** | _D'Souza LLC, Chicago, IL_ | Jan 2019 - Oct 2019
 
-* Provided consulting services on .NET technologies and best practices.
-* Contributed to short-term projects, delivering solutions under strict deadlines.
+- Led development of financial reporting systems using .NET Core and Angular technologies
+- Established CI/CD pipelines with Azure DevOps to improve deployment frequency and reliability
 
-**Senior .NET Software Engineer Consultant** | Tek Systems | 10/2019 - 02/2020
+**Senior .NET Software Engineer Consultant** | _Fahrenheit IT - BCS Financial, Oakbrook Terrace, IL_ | Apr 2018 - Dec 2018
 
-* Implemented software development best practices to improve project quality.
-* Delivered .NET consulting services for diverse client projects.
+- Built secure financial applications using .NET Core, Angular, and SQL Server
+- Upgraded existing systems with modern architecture patterns and security improvements
 
-**Senior .NET Software Engineer Consultant** | D'Souza LLC | 01/2019 - 10/2019
+**Senior Software Engineer** | _Aquilon Energy Services, Lisle, IL_ | May 2016 - Apr 2018
 
-* Developed an intranet application using .NET Web Forms, improving internal communication efficiency by 40%.
-* Designed and developed a website and API using .NET Core 3.1, enhancing user experience and system performance.
+- Directed enterprise architecture modernization initiatives for a cloud-based energy trading platform
+- Guided development team in implementing security, performance, and scalability best practices
+- Designed and implemented microservices architecture using .NET Core, Docker, and Azure
 
-**Senior .NET Software Engineer Consultant** | BCS Financial, Fahrenheit IT | 10/2018 - 12/2018
+**Senior Engineer, System Design And Strategy** | _T-Mobile, Bellevue, WA_ | Jul 2015 - May 2016
 
-* Delivered .NET solutions for clients in the financial sector.
-* Optimized existing systems, achieving a 25% improvement in processing times.
+- Developed system strategy for customer-facing applications and internal tools
+- Conducted architecture reviews and provided technical direction for development teams
 
-**Education**
+## EARLIER EXPERIENCE (2003-2015)
 
-**Master of Information Technology and Management** | Illinois Institute of Technology | 2011
+**Senior .NET Software Engineer** | _Tek Systems_ | 2014-2015  
+**Senior Software Developer** | _Restaurant Application Development International_ | 2014 **Senior Software Development Analyst** | _Joint Commission Resources_ | 2011-2014  
+**.NET Developer** | _Nebo Systems_ | 2010-2011  
+**Web Applications Developer** | _Insurance Auto Auctions_ | 2009-2010  
+**Web Programmer** | _Centiv Services_ | 2008-2009  
+**Software Engineer** | _Thomson Healthcare_ | 2005-2007  
+**Programmer Analyst** | _LOGS Financial Services_ | 2005  
+**Programmer Analyst** | _TD Canada Trust_ | 2003-2004
 
-**Bachelor of Science in Computer Information Systems** | DeVry University | 2002
+## EDUCATION
 
-**Professional Development**
-
-* Deepened knowledge of AI for productivity enhancement and collaborative coding.
-* Explored AI-driven tools for workflow optimization and accelerated problem-solving.
-* Conducted proof-of-concept experiments in system analysis to demonstrate rapid comprehension of complex requirements.
-* Actively pursuing knowledge in React, Vue, and React Native.
-* Regularly attend industry conferences and workshops to maintain current knowledge of emerging technologies.
+**Master of Information Technology and Management** | _Illinois Institute of Technology, Chicago, IL, 2011_ | Summa Cum Laude  
+**Bachelor of Science in Computer Information Systems** | _DeVry University, Phoenix, AZ, 2002_ | Summa Cum Laude
