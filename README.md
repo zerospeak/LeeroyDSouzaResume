@@ -40,8 +40,7 @@ Full-Stack .NET Software Engineer with 15+ years of experience developing enterp
 - Created an interactive FAQ chatbot using Azure services for web and UWP XAML applications
 - Architected a Brownfield application rewrite using .NET 5, Entity Framework Core 5, ASP.NET Razor Pages, and DDD
 
- 
-<br/><br/>Lead Software Developer** | _Road Runner Transportation Services, Downers Grove, IL_ | Feb 2020 - June 2020
+**Lead Software Developer** | _Road Runner Transportation Services, Downers Grove, IL_ | Feb 2020 - June 2020
 
 - Collaborated with CTO on technology stack including Azure DevOps, Angular 8, Entity Framework Core, and .NET Core 3.1
 - Deployed Kubernetes for Docker container orchestration to improve deployment reliability and scalability
