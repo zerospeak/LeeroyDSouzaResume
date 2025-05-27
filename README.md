@@ -23,6 +23,11 @@ Full-Stack .NET Software Engineer with 15+ years of experience developing enterp
 - Mentored junior developers and delivered proof-of-concepts aligned with company objectives
 - Implemented AI-assisted workflows using various AI tools to improve development efficiency
 
+**Software Engineer Consultant** | Insight Global, Houston, TX | August 2021 to November 2021 (Client-United Airlines)
+
+-	Converting legacy .Net 4.8 applications to .Net 3.1 core API microservices orchestrated by Kubernetes for a new application.
+-	Working with remote offshore and onshore developers following the Agile Methodology for Greenfield application.
+
 **Software Engineer** | _Aspire Software (ServiceTitan Subsidiary), Saint Louis, MO_ | Oct 2021 - Jun 2022
 
 - Designed and built scalable RESTful APIs using Azure cloud services, C#, and .NET 5 microservices
